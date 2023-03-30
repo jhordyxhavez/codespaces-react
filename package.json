@@ -1,4 +1,4 @@
-{
+{ npm start 
   "name": "codespaces-react",
   "version": "0.1.0",
   "private": true,
@@ -36,4 +36,3 @@
     ]
   }
 }
-npm start
